@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+p{
+	font-family: Arial, Helvetica, "sans-serif";
+	font-size: 21px;
+	line-height: 1.8;
+	padding: 5px;
+
+}
+
+.narrador{
+      color: white;
+      font-family: "Times New Roman", Times, serif;
+}
+
+.capitalLetter{
+        font-size: 36px;
+        margin-right: 1px;
+        line-height: 1;
+}
+
+.bold{
+    font-weight:900;
+    color: #ffebd6;
+}
+
+.boldS{
+    font-weight:900;
+    color: #c5e8c6;
+}
+
+.boldL{
+    font-weight:900;
+    color: #ebb2d5;
+}
+
+.boldA{
+    font-weight:900;
+    color: #88b4e3;
+}
+
+.personas{
+       background-color: #d6b6e0;
+}
+
+.Alicia{
+     background-color: #88b4e3;
+}
+
+.liebre{
+     background-color: #ffebd6;
+}
+
+.Sombrerero{
+    background-color: #c5e8c6;
+}
+
+.Liron{
+    background-color: #ebb2d5;
+}
+
+body{
+	background-color: black;
+}
